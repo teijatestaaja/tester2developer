@@ -1,8 +1,8 @@
 # Journey from Tester to Developer
 
-I wanted to start the 2020s by studying new technologies and programming languages in order to change my job from testing into programming. My dream is to work as a full stack mobile developer in the future.
+I wanted to start the 2020s by studying new technologies and programming languages in order to change my job from testing into programming. My dream is to work as Full Stack Mobile Developer in the future.
 
-I am completing these various types of studies while working full-time as a Senior Test Engineer. I also have study right in the Degree Programme in Business Information Technology at Haaga-Helia University of Applied Sciences, where I am studying software engineering.
+I am completing these various types of studies while working full-time as a Senior Test Engineer. I also have a study right in the Degree Programme in Business Information Technology at Haaga-Helia University of Applied Sciences, where I am studying software engineering.
 
 ## Completed courses and workshops in 2020
 

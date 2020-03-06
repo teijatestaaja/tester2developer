@@ -2,7 +2,7 @@
 
 I wanted to start the 2020s by studying new technologies and programming languages in order to change my job from testing into programming. My dream is to work as Full Stack Mobile Developer in the future.
 
-I am completing these various types of studies while working full-time as a Senior Test Engineer. I also have a study right in the Degree Programme in Business Information Technology at Haaga-Helia University of Applied Sciences, where I am studying software engineering.
+I am completing these various types of programming-related studies while working full-time as a Senior Test Engineer. I will also study some testing-related stuff to broaden my knowledge at work. Currently, I have a study right in the Degree Programme in Business Information Technology at Haaga-Helia University of Applied Sciences, where I am studying [software engineering](https://opinto-opas.haaga-helia.fi/index.php/en/13336/en/39079/DIGI19-E/303/year/2019?userLang=en).
 
 ## Completed courses and workshops in 2020
 

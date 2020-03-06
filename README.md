@@ -11,10 +11,11 @@ I am completing these various types of programming-related studies while working
 | Robot Framework Foundation | [RoboCon 2020: Extending Robot Framework (Advanced)](https://robocon.io/#extending-robot-framework-(advanced)-[sold-out])| Workshop | January | 7 hours |
 | Self-study project |[Kotlin basics](https://github.com/teijatestaaja/kotlin-self-study) | Blended learning | February | 30 hours |
 | Test Automation University | [IntelliJ for Test Automation Engineers](https://testautomationu.applitools.com/intellij/) | Online course | February | 4 h 45 min |
+| | | | |
 
 &nbsp;&nbsp;&nbsp;
 
-The following is a short description what I have learned during these courses and workshops.
+The following is a short description of what I have learned during these courses and workshops.
 
 ### RoboCon 2020: Extending Robot Framework (Advanced)
 

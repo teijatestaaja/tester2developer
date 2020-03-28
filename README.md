@@ -42,7 +42,7 @@ I decided to refresh my [Java](https://www.w3schools.com/java/) programming skil
 
 At work, I needed to study [Selenium IDE](https://www.selenium.dev/selenium-ide/) for my next project. Previously I have only used [Selenium Library](https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html) with Robot Framework, but I had not used any kind of codeless test automation tools. After searching the Web I found [official tutorial](https://www.selenium.dev/selenium-ide/docs/en/introduction/getting-started) and this TAU course taught by Dave Haeffner, one of current the developers of Selenium IDE. So, this course introduced a free and open source record and playback tool called Selenium IDE. It was a great course for learning basic usage of Selenium IDE, and I learned how to write, run and debug tests with it in addition to writing scripts within the editor. I strongly recommend this course to anyone interested in the subject!
 
-### Vue.js - Arvostele kissakuvia
+### Vue.js - Cat Rating App
 
 I was really exited about this [Vue.js](https://vuejs.org/) workshop. I know JavaScript and React, but Vue.js is a totally new library to me. In this short workshop, I learned to install Vue Devtools for a browser and install vue with npm. I learned the basics and core principles of Vue.js and how to create a simple Vue project.  To me, Vue seemed at first a bit complicated compared to React, so more studying would be required in the future on this. Unfortunately, this workshop was held just before the outbreak of COVID-19 in Finland and most of the learnings were forgotten since I did not have time to go back to the demo project.
 

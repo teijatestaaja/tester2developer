@@ -1,6 +1,6 @@
 # Journey from Tester to Developer
 
-I wanted to start the 2020s by studying new technologies and programming languages as well as Portuguese language in order to change my job from testing into programming. My dream is to work as Full Stack Mobile Developer in the future, and learn to speak and write Portuguese fluently.
+I wanted to start the 2020s by studying new technologies and programming languages as well as Portuguese language in order to change my job from testing into programming. **My dream is to work as Full Stack Mobile Developer in the future, and learn to speak and write Portuguese fluently.**
 
 I am completing these various types of programming-related studies while working full-time as a Senior Test Engineer. I will also study some testing-related stuff to broaden my knowledge at work. As to Portuguese, I have only studied it with the help on an audio CD in my car during driving to trainings, but basically I only know how to say "_hello_", "_good day_" and "_thank you_"!
 
@@ -8,15 +8,15 @@ Studying and learning new things is something I enjoy and value a lot, because a
 
 ## Completed courses and workshops in 2020
 
-| Organiser | Course / workshop        | Type | Completed | Time spent |
-| -------------------- | ------------- | ----- | ------------- | ---------- |
-| Robot Framework Foundation | [RoboCon 2020: Extending Robot Framework (Advanced)](https://robocon.io/#extending-robot-framework-(advanced)-[sold-out])| Workshop | January | 7 hours |
-| Self-study project |[Kotlin Basics](https://github.com/teijatestaaja/kotlin-self-study) | Blended learning | February | 30 hours |
-| Test Automation University | [IntelliJ for Test Automation Engineers](https://testautomationu.applitools.com/intellij/) | Online course | February | 4 h 45 min |
-| University of Helsinki | [Introduction to Programming 5 ECTS, MOOC (Java)](https://ohjelmointi-20.mooc.fi/) | Massive open online course | March | 27 h 15 min |
-| Test Automation University | [Codeless Test Automation with Selenium IDE](https://testautomationu.applitools.com/codeless-test-automation-with-selenium-ide/) | Online course | March | 2 hours |
-| Twig the Code | [Vue.js - Arvostele kissakuvia](https://twigthecode.com/tapahtumat/vuejs) | Workshop | March | 4 hours |
-| Microsoft Learn | [Azure fundamentals](https://docs.microsoft.com/fi-fi/learn/paths/azure-fundamentals/) | Online course | March | ??? |
+| Organiser | Course / workshop        | Subject | Type | Completed | Time spent |
+| -------------------- | ------------- | ----- | ----- | ------------- | ---------- |
+| Robot Framework Foundation | [RoboCon 2020: Extending Robot Framework (Advanced)](https://robocon.io/#extending-robot-framework-(advanced)-[sold-out])| Testing | Workshop | January | 7 hours |
+| Self-study project |[Kotlin Basics](https://github.com/teijatestaaja/kotlin-self-study) | Kotlin | Blended learning | February | 30 hours |
+| Test Automation University | [IntelliJ for Test Automation Engineers](https://testautomationu.applitools.com/intellij/) | Testing | Online course | February | 4 h 45 min |
+| University of Helsinki | [Introduction to Programming 5 ECTS, MOOC (Java)](https://ohjelmointi-20.mooc.fi/) | Java | Massive open online course | March | 27 h 15 min |
+| Test Automation University | [Codeless Test Automation with Selenium IDE](https://testautomationu.applitools.com/codeless-test-automation-with-selenium-ide/) | Testing | Online course | March | 2 hours |
+| Twig the Code | [Vue.js - Cat Rating App](https://twigthecode.com/tapahtumat/vuejs) | Vue | Workshop | March | 4 hours |
+| Microsoft Learn | [Azure fundamentals](https://docs.microsoft.com/fi-fi/learn/paths/azure-fundamentals/) | Azure | Online course | March | ??? |
 
 &nbsp;&nbsp;&nbsp;
 
@@ -44,9 +44,7 @@ At work, I needed to study [Selenium IDE](https://www.selenium.dev/selenium-ide/
 
 ### Vue.js - Arvostele kissakuvia
 
-I am really exited about this [Vue.js](https://vuejs.org/) workshop. I know JavaScript, but Vue.js is a totally new library to me.
-
-ONGOING
+I was really exited about this [Vue.js](https://vuejs.org/) workshop. I know JavaScript and React, but Vue.js is a totally new library to me. In this short workshop, I learned to install Vue Devtools for a browser and install vue with npm. I learned the basics and core principles of Vue.js and how to create a simple Vue project.  To me, Vue seemed at first a bit complicated compared to React, so more studying would be required in the future on this. Unfortunately, this workshop was held just before the outbreak of COVID-19 in Finland and most of the learnings were forgotten since I did not have time to go back to the demo project.
 
 ### Azure fundamentals
 

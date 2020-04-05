@@ -16,7 +16,9 @@ Studying and learning new things is something I enjoy and value a lot, because a
 | University of Helsinki | [Introduction to Programming 5 ECTS, MOOC (Java)](https://ohjelmointi-20.mooc.fi/) | Java | Massive open online course | March | 27 h 15 min |
 | Test Automation University | [Codeless Test Automation with Selenium IDE](https://testautomationu.applitools.com/codeless-test-automation-with-selenium-ide/) | Testing | Online course | March | 2 hours |
 | Twig the Code | [Vue.js - Cat Rating App](https://twigthecode.com/tapahtumat/vuejs) | Vue | Workshop | March | 4 hours |
-| Microsoft Learn | [Azure fundamentals](https://docs.microsoft.com/fi-fi/learn/paths/azure-fundamentals/) | Azure | Online course | March | ??? |
+| Microsoft Learn | [Azure fundamentals](https://docs.microsoft.com/fi-fi/learn/paths/azure-fundamentals/) | Azure | Online course | April | ??? |
+| University of Helsinki | [Advanced Course in Programming 5 ECTS, MOOC (Java)](https://ohjelmointi-20.mooc.fi/) | Java | Massive open online course | April | ??? |
+| Haaga Helia University of Applied Sciences | [Mobile programming](https://opinto-opas.haaga-helia.fi/course_unit/SWD4TN021) | React Native | Online course | April | ??? |
 
 &nbsp;&nbsp;&nbsp;
 

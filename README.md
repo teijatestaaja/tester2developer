@@ -25,4 +25,4 @@ Due to covid-19, all sports were cancelled in spring 2020 so I started to learn 
 
 &nbsp;&nbsp;&nbsp;
 
-See [description of what I have learned](completed_course.md).
+See [description of what I have learned](completed_courses.md).

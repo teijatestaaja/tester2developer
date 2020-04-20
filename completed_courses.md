@@ -2,7 +2,7 @@
 
 The following is a short description of what I have learned during these courses and workshops.
 
-## RoboCon 2020: Extending Robot Framework (Advanced)
+## Extending Robot Framework (Advanced)
 
 I wanted to learn more about [Robot Framework](https://robotframework.org/) from its creator, so I participated in this workshop during Robocon 2020. This workshop was 100% hands-on, and it was all about learning how to extend Robot Framework using various different interfaces. I had self-learned Robot Framework and I wrote some basic libraries in [Python](https://www.python.org/) in the summer of 2013.  I was very happy that I participated in this workshop, because during the day I learned a lot more about writing test libraries in Python and also how to modify test suite before executing.
 

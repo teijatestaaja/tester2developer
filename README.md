@@ -12,7 +12,7 @@ Due to covid-19, all sports were cancelled in spring 2020 so I started to learn 
 
 | Organiser | Course / workshop        | Subject | Type | Completed | Time spent |
 | -------------------- | ------------- | ----- | ----- | ------------- | ---------- |
-| Robot Framework Foundation | [RoboCon 2020: Extending Robot Framework (Advanced)](https://robocon.io/#extending-robot-framework-(advanced)-[sold-out])| Testing | Workshop | January | 7 hours |
+| Robot Framework Foundation | [Extending Robot Framework (Advanced)](https://robocon.io/#extending-robot-framework-(advanced)-[sold-out])| Testing | Workshop | January | 7 hours |
 | Self-study project |[Kotlin Basics](https://github.com/teijatestaaja/kotlin-self-study) | Kotlin | Blended learning | February | 30 hours |
 | Test Automation University | [IntelliJ for Test Automation Engineers](https://testautomationu.applitools.com/intellij/) | Testing | Online course | February | 4 h 45 min |
 | University of Helsinki | [Introduction to Programming 5 ECTS, MOOC (Java)](https://ohjelmointi-20.mooc.fi/) | Java | Massive open online course | March | 27 h 15 min |

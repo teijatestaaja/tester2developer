@@ -28,15 +28,11 @@ I was really exited about this [Vue.js](https://vuejs.org/) workshop. I know Jav
 
 ## Azure fundamentals
 
-ONGOING
-
-## Developing solutions for Microsoft Azure
-
-ONGOING
+I needed a small introductory course on Azure, so I decided to go through Microsoft's material on Azure fundamentals, while I was taking a self-study course on Metropolia Applied University. I learned what is Azure and what are required to start developing applicationg on the Azure cloud.
 
 ## Advanced Course in Programming 5 ECTS, MOOC (Java)
 
-ONGOING
+This was the second part of massive online programming course offered by University of Helsinki. This was a bit more challenging, but in the end I spent only 43 hours for completing the tasks and exams. I learned to use Java's ArrayLists and HashMaps fluently.
 
 ## Mobile programming 5 ECTS
 

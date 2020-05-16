@@ -18,10 +18,9 @@ Due to covid-19, all sports were cancelled in spring 2020 so I started to learn 
 | University of Helsinki | [Introduction to Programming 5 ECTS, MOOC (Java)](https://ohjelmointi-20.mooc.fi/) | Java | Massive open online course | March | 27 h 15 min |
 | Test Automation University | [Codeless Test Automation with Selenium IDE](https://testautomationu.applitools.com/codeless-test-automation-with-selenium-ide/) | Testing | Online course | March | 2 hours |
 | Twig the Code | [Vue.js - Cat Rating App](https://twigthecode.com/tapahtumat/vuejs) | Vue | Workshop | March | 4 hours |
-| Microsoft Learn | [Developing solutions for Microsoft Azure](https://docs.microsoft.com/fi-fi/learn/paths/create-serverless-applications/) | Azure | Online course | April | ??? |
-| Microsoft Learn | [Azure fundamentals](https://docs.microsoft.com/fi-fi/learn/paths/azure-fundamentals/) | Azure | Online course | April | ??? |
-| University of Helsinki | [Advanced Course in Programming 5 ECTS, MOOC (Java)](https://ohjelmointi-20.mooc.fi/) | Java | Massive open online course | April | ??? |
-| Haaga Helia University of Applied Sciences | [Mobile programming 5 ECTS](https://opinto-opas.haaga-helia.fi/course_unit/SWD4TN021) | React Native | Online course | April | ??? |
+| Microsoft Learn | [Azure fundamentals](https://docs.microsoft.com/fi-fi/learn/paths/azure-fundamentals/) | Azure | Online course | April | 5 hours 35 minutes |
+| University of Helsinki | [Advanced Course in Programming 5 ECTS, MOOC (Java)](https://ohjelmointi-20.mooc.fi/) | Java | Massive open online course | May | 43 hours |
+| Haaga Helia University of Applied Sciences | [Mobile programming 5 ECTS](https://opinto-opas.haaga-helia.fi/course_unit/SWD4TN021) | React Native | Online course | May | ??? |
 
 &nbsp;&nbsp;&nbsp;
 

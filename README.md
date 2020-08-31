@@ -1,12 +1,12 @@
 # Journey from Tester to Developer
 
-I wanted to start the 2020s by studying new technologies and programming languages as well as Portuguese language in order to change my job from testing into programming. **My dream is to work as Full Stack Mobile Developer in the future, and learn to speak and write Portuguese fluently.**
+I wanted to start the 2020s by studying new technologies and programming languages as well as Portuguese language in order to change my job from testing into programming. **My dream is to work as Full Stack Mobile Developer in the future.**
 
-I am completing these various types of programming-related studies while working full-time as a Senior Test Automation Engineer. I will also study some testing-related stuff to broaden my knowledge at work. As to Portuguese, I have only studied it with the help on an audio CD in my car during driving to trainings, but basically all I know is to how to say "_hello_", "_good day_" and "_thank you_".
+I am completing these various types of programming-related studies while working full-time as a Senior Test Automation Engineer. I will also study some testing-related stuff to broaden my knowledge at work.
 
 Studying and learning new things is something I enjoy and value a lot, because as a person I am curious and always eager to learn. Currently, I have a study right in the Degree Programme in Business Information Technology at Haaga-Helia University of Applied Sciences, where I am continuing my studies in [software engineering](https://opinto-opas.haaga-helia.fi/index.php/en/13336/en/39079/DIGI19-E/303/year/2019?userLang=en).
 
-Due to covid-19, all sports were cancelled in spring 2020 so I started to learn Portuguese in April with Duolingo App.
+Due to covid-19, all sports were cancelled in spring 2020 so I started also to learn Portuguese in April with Duolingo App.
 
 ## Completed courses and workshops in 2020
 
@@ -20,7 +20,8 @@ Due to covid-19, all sports were cancelled in spring 2020 so I started to learn 
 | Twig the Code | [Vue.js - Cat Rating App](https://twigthecode.com/tapahtumat/vuejs) | Vue | Workshop | March | 4 hours |
 | Microsoft Learn | [Azure fundamentals](https://docs.microsoft.com/fi-fi/learn/paths/azure-fundamentals/) | Azure | Online course | April | 5 hours 35 minutes |
 | University of Helsinki | [Advanced Course in Programming 5 ECTS, MOOC (Java)](https://ohjelmointi-20.mooc.fi/) | Java | Massive open online course | May | 43 hours |
-| Haaga Helia University of Applied Sciences | [Mobile programming 5 ECTS](https://opinto-opas.haaga-helia.fi/course_unit/SWD4TN021) | React Native | Online course | May | ??? |
+| Haaga Helia University of Applied Sciences | [Mobile programming 5 ECTS](https://opinto-opas.haaga-helia.fi/course_unit/SWD4TN021) | React Native | Online course | May | 51 h 10 min |
+| Metropolia University of Applied Sciences | [Python programming 3 ECTS](https://campusonline.fi/course/python-programming/) | Python | Online course | August | 12 h 20 min |
 
 &nbsp;&nbsp;&nbsp;
 

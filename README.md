@@ -1,6 +1,6 @@
 # Journey from Tester to Developer
 
-I wanted to start the 2020s by studying new technologies and programming languages as well as Portuguese language in order to change my job from testing into more towards developer.
+I wanted to start the 2020s by studying new technologies and programming languages as well as Portuguese language in order to change my job from testing into more towards developer, be it test-related or pure developer.
 
 I am completing these various types of programming-related studies while working full-time as a Senior Test Automation Engineer. I will also study some testing-related stuff to broaden my knowledge at work.
 

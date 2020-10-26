@@ -1,14 +1,10 @@
 # Journey from Tester to Developer
 
-<<<<<<< HEAD
-I wanted to start the 2020s by studying new technologies and programming languages in order to change my job from testing into programming. **My dream is to work as Full Stack Mobile Developer in the future.** I am completing these various types of programming-related studies **while working full-time as Senior Test Automation Engineer**. I will also study some testing-related stuff to broaden my knowledge at work.
-=======
 I wanted to start the 2020s by studying new technologies and programming languages as well as Portuguese language in order to change my job from testing into more towards developer, be it test-related or pure developer.
 
 I am completing these various types of programming-related studies while working full-time as a Senior Test Automation Engineer. I will also study some testing-related stuff to broaden my knowledge at work.
->>>>>>> be18f48b59d356f5905fb4efc7e74c2bcbc73fe9
 
-Studying and learning new things is something I enjoy and value a lot, because as a person I am curious and always eager to learn. Currently, I have a study right in the Degree Programme in Business Information Technology at Haaga-Helia University of Applied Sciences, where I am continuing my studies in [software engineering](https://opinto-opas.haaga-helia.fi/index.php/en/13336/en/39079/DIGI19-E/303/year/2019?userLang=en).
+Studying and learning new things is something I enjoy and value a lot, because as a person I am curious and always eager to learn. Currently, I have a study right in the Degree Programme in Business Information Technology at Haaga-Helia University of Applied Sciences, where I am continuing my studies in [software engineering](https://opinto-opas.haaga-helia.fi/index.php/en/13336/en/39079/DIGI19-E/303/year/2019?userLang=en). Once finished, it will be my 5th university degree.
 
 Due to covid-19, all sports were cancelled in spring 2020 so I started also to learn Portuguese in April with Duolingo App.
 
@@ -24,9 +20,13 @@ Due to covid-19, all sports were cancelled in spring 2020 so I started also to l
 | Microsoft Learn | [Azure fundamentals](https://docs.microsoft.com/fi-fi/learn/paths/azure-fundamentals/) | Azure | Online course | April | 5 hours 35 minutes |
 | University of Helsinki | [Advanced Course in Programming 5 ECTS, MOOC (Java)](https://ohjelmointi-20.mooc.fi/) | Java | Massive open online course | May | 43 hours |
 | Haaga Helia University of Applied Sciences | [Mobile programming 5 ECTS](https://opinto-opas.haaga-helia.fi/course_unit/SWD4TN021) | React Native | Online course | May | 51 h 10 min |
+| | Summer vacation | | | June | |
+| | Summer vacation | | | July | |
 | Metropolia University of Applied Sciences | [Python programming 3 ECTS](https://campusonline.fi/course/python-programming/) | Python | Online course | August | 12 h 20 min |
 | Test Automation University | [Selenium WebDriver with Java](https://testautomationu.applitools.com/selenium-webdriver-tutorial-java/) | Testing | Online course | September | 4 h 30 min |
 | Test Automation University | [Continuous Integration with Jenkins](https://testautomationu.applitools.com/jenkins-tutorial/) | Testing | Online course | October | TODO |
+| TBD | | | | November | |
+| TBD | | | | December | |
 
 &nbsp;&nbsp;&nbsp;
 

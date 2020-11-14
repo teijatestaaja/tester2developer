@@ -42,6 +42,18 @@ This was actually the first official course on Python that I have ever taken. I 
 
 I took this course because I had to use the same technologies at work. This course was really well designed introductory course to using Selenium WebDriver with Java. I learned how to install Selenium WebDriver and the other dependencies needed, how to use the WebDriver API to launch and interact with websites and how to integrate the WebDriver API with a test assertion library TestNG. I also learned various techniques to find elements such as buttons, links, text or dropdowns within a web application, and how to organize test code using the Page Object Model.
 
+## ICT architectures
+
+This course was compulsory for the Degree Programme in Business Information Technology. In this course I earned the basics of enterprise architectures, and how to develop it, as well as frameworks such as TOGAF, Kartturi and JHS 179. I also learned how to use the ArchiMate tool for modelling enterprise architectures.
+
+## Python for Test Automation
+
+This was a short introductory course to Python for software testing. This course is very useful for those who already know how to program on one language and want to quickly learn Python for test automation purposes. I already knew the basics of Python that this course introduced, but I also learned new stuff on ways to do multiple inheritance in Python.
+
 ## Continuous Integration with Jenkins
+
+Learning about Jenkins has been on my todo list for a long time. I needed to use it at work in a project, this course provided a perfect opportunity to learn about the subject. I learned how to create, configure, and execute jobs in Jenkins, including automated test execution. I also learned about post-build actions such as reporting and sending emails.
+
+## Front end development
 
 TODO

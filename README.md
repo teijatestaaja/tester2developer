@@ -1,6 +1,6 @@
 # Journey from Tester to Developer
 
-I wanted to start the 2020s by studying new technologies and programming languages as well as Portuguese language in order to change my job from testing into more towards developer, be it test-related or pure developer.
+I wanted to start the 2020s by studying new technologies and programming languages in order to change my job from testing into more towards developer, be it test-related or pure developer job.
 
 I am completing these various types of programming-related studies while working full-time as a Senior Test Automation Engineer. I will also study some testing-related stuff to broaden my knowledge at work.
 
@@ -24,9 +24,9 @@ Due to covid-19, all sports were cancelled in spring 2020 so I started also to l
 | | Summer vacation | | | July | |
 | Metropolia University of Applied Sciences | [Python programming 3 ECTS](https://campusonline.fi/course/python-programming/) | Python | Online course | August | 12 h 20 min |
 | Test Automation University | [Selenium WebDriver with Java](https://testautomationu.applitools.com/selenium-webdriver-tutorial-java/) | Testing | Online course | September | 4 h 30 min |
-| Haaga Helia University of Applied Sciences | [ICT architectures 5 ECTS](http://www.haaga-helia.fi/fi/opinto-opas/opintojaksokuvaukset/ICT2TA010) | ICT architectures | Online course | October | TBA |
+| Haaga Helia University of Applied Sciences | [ICT architectures 5 ECTS](http://www.haaga-helia.fi/fi/opinto-opas/opintojaksokuvaukset/ICT2TA010) | ICT architectures | Online course | October | 13 hours 30 min |
 | Test Automation University | [Python for Test Automation](https://testautomationu.applitools.com/python-tutorial/) | Python | Online course | November | 2 hours |
-| Test Automation University | [Continuous Integration with Jenkins](https://testautomationu.applitools.com/jenkins-tutorial/) | Testing | Online course | November | TODO |
+| Test Automation University | [Continuous Integration with Jenkins](https://testautomationu.applitools.com/jenkins-tutorial/) | Testing | Online course | November | 1 hour 30 min |
 | Haaga Helia University of Applied Sciences | [Front end development 5 ECTS](https://opinto-opas.haaga-helia.fi/course_unit/SWD4TF022) | React | Online course| November | TODO |
 | TBD | | | | December | |
 

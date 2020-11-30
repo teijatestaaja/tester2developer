@@ -27,8 +27,8 @@ Due to covid-19, all sports were cancelled in spring 2020 so I started also to l
 | Haaga Helia University of Applied Sciences | [ICT architectures 5 ECTS](https://opinto-opas.haaga-helia.fi/course_unit/BIG4TA023) | ICT architectures | Online course | October | 13 hours 30 min |
 | Test Automation University | [Python for Test Automation](https://testautomationu.applitools.com/python-tutorial/) | Python | Online course | November | 2 hours |
 | Test Automation University | [Continuous Integration with Jenkins](https://testautomationu.applitools.com/jenkins-tutorial/) | Testing | Online course | November | 1 hour 30 min |
-| Haaga Helia University of Applied Sciences | [Front end development 5 ECTS](https://opinto-opas.haaga-helia.fi/course_unit/SWD4TF022) | React | Online course| November | TODO |
-| Metropolia University of Applied Sciences | [Javascript-perusteet 5 ECTS](https://campusonline.fi/course/javascript-perusteet/) | JavaScript | Online course | November | TODO |
+| Metropolia University of Applied Sciences | [Javascript Basics 5 ECTS](https://campusonline.fi/course/javascript-perusteet/) | JavaScript | Online course | November | 6 hours |
+| Haaga Helia University of Applied Sciences | [Front End Development 5 ECTS](https://opinto-opas.haaga-helia.fi/course_unit/SWD4TF022) | React | Online course| December | TODO |
 | TBD | | | | December | |
 
 &nbsp;&nbsp;&nbsp;

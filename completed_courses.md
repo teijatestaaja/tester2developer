@@ -24,7 +24,7 @@ At work, I needed to study [Selenium IDE](https://www.selenium.dev/selenium-ide/
 
 ## Azure fundamentals
 
-I needed a small introductory course on Azure, so I decided to go through Microsoft's material on Azure fundamentals, while I was taking a self-study course on Metropolia Applied University. I learned what is Azure and what are required to start developing applicationg on the Azure cloud.
+I needed a small introductory course on Azure, so I decided to go through Microsoft's material on [Azure](https://docs.microsoft.com/en-us/learn/azure/) fundamentals, while I was taking a self-study course on Metropolia Applied University. I learned what is Azure and what are required to start developing applicationg on the Azure cloud.
 
 ## Advanced Course in Programming 5 ECTS, MOOC (Java)
 
@@ -32,7 +32,7 @@ This was the second part of massive online programming course offered by Univers
 
 ## Mobile programming 5 ECTS
 
-On this last course before summer holidays, I studied the development of mobile applications with React Native. I learned the basics of React Native, that is how to write a simple React program that uses navigation, networking, location, mapview and sqlite as a database. On the course the following tools were used: Git, Node.js and Expo CLI. The app was tested in a real mobile phone with Expo Client. I really liked this course and I learned a lot about developing mobile applications with React Native.
+On this last course before summer holidays, I studied the development of mobile applications with [React Native](https://reactnative.dev/). I learned the basics of React Native, that is how to write a simple React program that uses navigation, networking, location, mapview and sqlite as a database. On the course the following tools were used: Git, Node.js and Expo CLI. The app was tested in a real mobile phone with Expo Client. I really liked this course and I learned a lot about developing mobile applications with React Native.
 
 ## Python programming 3 ECTS
 
@@ -40,11 +40,11 @@ This was actually the first official course on Python that I have ever taken. I 
 
 ## Selenium WebDriver with Java
 
-I took this course because I had to use the same technologies at work. This course was really well designed introductory course to using Selenium WebDriver with Java. I learned how to install Selenium WebDriver and the other dependencies needed, how to use the WebDriver API to launch and interact with websites and how to integrate the WebDriver API with a test assertion library TestNG. I also learned various techniques to find elements such as buttons, links, text or dropdowns within a web application, and how to organize test code using the Page Object Model.
+I took this course because I had to use the same technologies at work. This course was really well designed introductory course to using Selenium WebDriver with Java. I learned how to install Selenium WebDriver and the other dependencies needed, how to use the WebDriver API to launch and interact with websites and how to integrate [the WebDriver API](https://www.selenium.dev/selenium/docs/api/py/api.html) with a test assertion library [TestNG](https://testng.org/doc/). I also learned various techniques to find elements such as buttons, links, text or dropdowns within a web application, and how to organize test code using the Page Object Model.
 
 ## ICT architectures
 
-This course was compulsory for the Degree Programme in Business Information Technology. In this course I earned the basics of enterprise architectures, and how to develop it, as well as frameworks such as TOGAF, Kartturi and JHS 179. I also learned how to use the ArchiMate tool for modelling enterprise architectures.
+This course was compulsory for the Degree Programme in Business Information Technology. In this course I earned the basics of enterprise architectures, and how to develop it, as well as frameworks such as TOGAF, Kartturi and JHS 179. I also learned how to use [ArchiMate tool](https://www.archimatetool.com/) for modelling enterprise architectures.
 
 ## Python for Test Automation
 
@@ -52,7 +52,12 @@ This was a short introductory course to Python for software testing. This course
 
 ## Continuous Integration with Jenkins
 
-Learning about Jenkins has been on my todo list for a long time. I needed to use it at work in a project, this course provided a perfect opportunity to learn about the subject. I learned how to create, configure, and execute jobs in Jenkins, including automated test execution. I also learned about post-build actions such as reporting and sending emails.
+Learning about [Jenkins](https://www.jenkins.io/) has been on my todo list for a long time. I needed to use it at work in a project, this course provided a perfect opportunity to learn about the subject. I learned how to create, configure, and execute jobs in Jenkins, including automated test execution. I also learned about post-build actions such as reporting and sending emails.
+
+## JavaSCript
+
+This course was a basic course on JavaScript, and I needed some easy credits for the Bachelor's degree. The course material
+was rather limited, so I learned how to search information on [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide). Using high-order functions and regular expressions were the most useful things I learned on this course.
 
 ## Front end development
 

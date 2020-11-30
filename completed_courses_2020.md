@@ -54,11 +54,11 @@ This was a short introductory course to Python for software testing. This course
 
 Learning about [Jenkins](https://www.jenkins.io/) has been on my todo list for a long time. I needed to use it at work in a project, this course provided a perfect opportunity to learn about the subject. I learned how to create, configure, and execute jobs in Jenkins, including automated test execution. I also learned about post-build actions such as reporting and sending emails.
 
-## JavaSCript
+## JavaScript Basics
 
 This course was a basic course on JavaScript, and I needed some easy credits for the Bachelor's degree. The course material
 was rather limited, so I learned how to search information on [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide). Using high-order functions and regular expressions were the most useful things I learned on this course.
 
-## Front end development
+## Front End Development
 
 TODO

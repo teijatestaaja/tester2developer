@@ -19,7 +19,7 @@ Due to covid-19, all sports were cancelled in spring 2020 so I started also to l
 | Test Automation University | [Codeless Test Automation with Selenium IDE](https://testautomationu.applitools.com/codeless-test-automation-with-selenium-ide/) | Testing | Online course | March | 2 hours |
 | Microsoft Learn | [Azure fundamentals](https://docs.microsoft.com/fi-fi/learn/paths/azure-fundamentals/) | Azure | Online course | April | 5 hours 35 minutes |
 | University of Helsinki | [Advanced Course in Programming 5 ECTS, MOOC (Java)](https://ohjelmointi-20.mooc.fi/) | Java | Massive open online course | May | 43 hours |
-| Haaga Helia University of Applied Sciences | [Mobile programming 5 ECTS](https://opinto-opas.haaga-helia.fi/course_unit/SWD4TN021) | React Native | Online course | May | 51 h 10 min |
+| Haaga Helia University of Applied Sciences | [Mobile programming 5 ECTS](https://opinto-opas.haaga-helia.fi/course_unit/SWD4TN021) | React Native | Online course | May | 54 hours |
 | | Summer vacation | | | June | |
 | | Summer vacation | | | July | |
 | Metropolia University of Applied Sciences | [Python programming 3 ECTS](https://campusonline.fi/course/python-programming/) | Python | Online course | August | 12 h 20 min |
@@ -28,8 +28,7 @@ Due to covid-19, all sports were cancelled in spring 2020 so I started also to l
 | Test Automation University | [Python for Test Automation](https://testautomationu.applitools.com/python-tutorial/) | Python | Online course | November | 2 hours |
 | Test Automation University | [Continuous Integration with Jenkins](https://testautomationu.applitools.com/jenkins-tutorial/) | Testing | Online course | November | 1 hour 30 min |
 | Metropolia University of Applied Sciences | [Javascript Basics 5 ECTS](https://campusonline.fi/course/javascript-perusteet/) | JavaScript | Online course | November | 6 hours |
-| Haaga Helia University of Applied Sciences | [Front End Development 5 ECTS](https://opinto-opas.haaga-helia.fi/course_unit/SWD4TF022) | React | Online course| December | TODO |
-| TBD | | | | December | |
+| Haaga Helia University of Applied Sciences | [Front End Development 5 ECTS](https://opinto-opas.haaga-helia.fi/course_unit/SWD4TF022) | React | Online course| December | 39 hours |
 
 &nbsp;&nbsp;&nbsp;
 

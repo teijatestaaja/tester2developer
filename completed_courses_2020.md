@@ -42,7 +42,7 @@ This was actually the first official course on Python that I have ever taken. I 
 
 I took this course because I had to use the same technologies at work. This course was really well designed introductory course to using Selenium WebDriver with Java. I learned how to install Selenium WebDriver and the other dependencies needed, how to use the WebDriver API to launch and interact with websites and how to integrate [the WebDriver API](https://www.selenium.dev/selenium/docs/api/py/api.html) with a test assertion library [TestNG](https://testng.org/doc/). I also learned various techniques to find elements such as buttons, links, text or dropdowns within a web application, and how to organize test code using the Page Object Model.
 
-## ICT architectures
+## ICT architectures 5 ECTS
 
 This course was compulsory for the Degree Programme in Business Information Technology. In this course I earned the basics of enterprise architectures, and how to develop it, as well as frameworks such as TOGAF, Kartturi and JHS 179. I also learned how to use [ArchiMate tool](https://www.archimatetool.com/) for modelling enterprise architectures.
 
@@ -54,11 +54,11 @@ This was a short introductory course to Python for software testing. This course
 
 Learning about [Jenkins](https://www.jenkins.io/) has been on my todo list for a long time. I needed to use it at work in a project, this course provided a perfect opportunity to learn about the subject. I learned how to create, configure, and execute jobs in Jenkins, including automated test execution. I also learned about post-build actions such as reporting and sending emails.
 
-## JavaScript Basics
+## JavaScript Basics 5 ECTS
 
 This course was a basic course on JavaScript, and I needed some easy credits for the Bachelor's degree. The course material
 was rather limited, so I learned how to search information on [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide). Using high-order functions and regular expressions were the most useful things I learned on this course.
 
-## Front End Development
+## Front End Development 5 ECTS
 
-TODO
+In this course I first learned to install and use tools and libraries such as [npm](https://docs.npmjs.com/cli/v6/commands) and [Node.js](https://nodejs.org/en/) that are required in [React](https://reactjs.org/docs/getting-started.html) development. I also learned more on the basics of React.js library and the most important ES6 features. I learned to create React components and how to use state in function component by using useState hook, as well as how to read user input in the React component. This was a course that was scheduled to be studied before the mobile programming course in the Haaga-Helia curriculum. I took the mobile programming course already in spring so I was familiar with some of the concepts. However, the final tasks made on this course taught me how to use ready made components in my own application. This was a really fun course and my final assignments of the year 2020.

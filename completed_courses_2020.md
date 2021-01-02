@@ -6,7 +6,7 @@ The following is a short description of what I have learned during these courses
 
 I wanted to learn more about [Robot Framework](https://robotframework.org/) from its creator, so I participated in this workshop during Robocon 2020. This workshop was 100% hands-on, and it was all about learning how to extend Robot Framework using various different interfaces. I had self-learned Robot Framework and I wrote some basic libraries in [Python](https://www.python.org/) in the summer of 2013.  I was very happy that I participated in this workshop, because during the day I learned a lot more about writing test libraries in Python and also how to modify test suite before executing.
 
-## Kotlin Basics
+## Kotlin Basics I
 
 In February 2020 I got and idea to learn a programming language that can be used in Android development. After researching some articles on Internet, I chose [Kotlin](https://kotlinlang.org/). I started from zero with Kotlin since I did not have any previous experience related to it before starting this self-study project. So far I have learned how to write a basic todo app in Kotlin, as well as how to write unit tests using [JUnit](https://junit.org/junit4/) and kotlin's native kotlin.test library.
 
@@ -21,6 +21,10 @@ I decided to refresh my [Java](https://www.w3schools.com/java/) programming skil
 ## Codeless Test Automation with Selenium IDE
 
 At work, I needed to study [Selenium IDE](https://www.selenium.dev/selenium-ide/) for my next project. Previously I have only used [Selenium Library](https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html) with Robot Framework, but I had not used any kind of codeless test automation tools. After searching the Web I found [official tutorial](https://www.selenium.dev/selenium-ide/docs/en/introduction/getting-started) and this TAU course taught by Dave Haeffner, one of current the developers of Selenium IDE. So, this course introduced a free and open source record and playback tool called Selenium IDE. It was a great course for learning basic usage of Selenium IDE, and I learned how to write, run and debug tests with it in addition to writing scripts within the editor. I strongly recommend this course to anyone interested in the subject!
+
+## Kotlin Basics II
+
+I was attending an online course for which I had to develop a learning material. So I decided to create a basic Kotlin online web course in Finnish. At the same time I learned more on the basics of Kotlin so it was totally worth
 
 ## Azure fundamentals
 

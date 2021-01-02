@@ -8,17 +8,26 @@ Studying and learning new things is something I enjoy and value a lot, because a
 
 Due to covid-19, all sports were cancelled in spring 2020 so I started also to learn Portuguese in April with Duolingo App.
 
+## Completed courses and workshops in 2021
+
+| Organiser | Course / workshop        | Subject | Type | Completed | Time spent |
+| -------------------- | ------------- | ----- | ----- | ------------- | ---------- |
+| Metropolia University of Applied Sciences | Introduction to Kotlin | Kotlin | Online course | January | TODO |
+
+&nbsp;&nbsp;&nbsp;
+
 ## Completed courses and workshops in 2020
 
-Total time spent: 252 hours and 30 minutes
+Total time spent: 279 hours and 30 minutes. See [description of what I have learned in 2020](completed_courses_2020.md).
 
 | Organiser | Course / workshop        | Subject | Type | Completed | Time spent |
 | -------------------- | ------------- | ----- | ----- | ------------- | ---------- |
 | Robot Framework Foundation | [Extending Robot Framework (Advanced)](https://robocon.io/#extending-robot-framework-(advanced)-[sold-out])| Testing | Workshop | January | 7 hours |
-| Self-study project |[Kotlin Basics](https://github.com/teijatestaaja/kotlin-self-study) | Kotlin | Blended learning | February | 30 hours |
+| Self-study project |[Kotlin Basics I](https://github.com/teijatestaaja/kotlin-self-study) | Kotlin | Blended learning | February | 30 hours |
 | Test Automation University | [IntelliJ for Test Automation Engineers](https://testautomationu.applitools.com/intellij/) | Testing | Online course | February | 4 h 45 min |
 | University of Helsinki | [Introduction to Programming 5 ECTS, MOOC (Java)](https://ohjelmointi-20.mooc.fi/) | Java | Massive open online course | March | 27 h 15 min |
 | Test Automation University | [Codeless Test Automation with Selenium IDE](https://testautomationu.applitools.com/codeless-test-automation-with-selenium-ide/) | Testing | Online course | March | 2 hours |
+| Self-study project | [Kotlin Basics II](https://github.com/teijatestaaja/kotlin-self-study) | Kotlin | Blended learning | April | 27 hours |
 | Microsoft Learn | [Azure fundamentals](https://docs.microsoft.com/fi-fi/learn/paths/azure-fundamentals/) | Azure | Online course | April | 5 hours 40 minutes |
 | University of Helsinki | [Advanced Course in Programming 5 ECTS, MOOC (Java)](https://ohjelmointi-20.mooc.fi/) | Java | Massive open online course | May | 43 hours |
 | Haaga Helia University of Applied Sciences | [Mobile programming 5 ECTS](https://opinto-opas.haaga-helia.fi/course_unit/SWD4TN021) | React Native | Online course | May | 54 hours |
@@ -31,7 +40,3 @@ Total time spent: 252 hours and 30 minutes
 | Test Automation University | [Continuous Integration with Jenkins](https://testautomationu.applitools.com/jenkins-tutorial/) | Testing | Online course | November | 1 hour 30 min |
 | Metropolia University of Applied Sciences | [Javascript Basics 5 ECTS](https://campusonline.fi/course/javascript-perusteet/) | JavaScript | Online course | November | 6 hours |
 | Haaga Helia University of Applied Sciences | [Front End Development 5 ECTS](https://opinto-opas.haaga-helia.fi/course_unit/SWD4TF022) | React | Online course| December | 39 hours |
-
-&nbsp;&nbsp;&nbsp;
-
-See [description of what I have learned in 2020](completed_courses_2020.md).

@@ -12,7 +12,8 @@ Due to covid-19, all sports were cancelled in spring 2020 so I started also to l
 
 | Organiser | Course / workshop        | Subject | Type | Completed | Time spent |
 | -------------------- | ------------- | ----- | ----- | ------------- | ---------- |
-| Metropolia University of Applied Sciences | [Introduction to Kotlin 3 ECTS](https://opinto-opas.metropolia.fi/fi/tarjontakorit/fi/54456) | Kotlin | Online course | January | TODO |
+| Metropolia University of Applied Sciences | [Introduction to Kotlin 3 ECTS](https://opinto-opas.metropolia.fi/fi/tarjontakorit/fi/54456) | Kotlin | Online course | January | 5 hours 30 minutes |
+| TODO | TODO | TODO | TODO | February | TODO |
 
 &nbsp;&nbsp;&nbsp;
 

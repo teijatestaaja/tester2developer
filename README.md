@@ -10,10 +10,12 @@ Due to covid-19, all sports were cancelled in spring 2020 so I started also to l
 
 ## Completed courses and workshops in 2021
 
+Total time spent: 5 hours and 30 minutes. See [description of what I have learned in 2021](completed_courses_2021.md).
+
 | Organiser | Course / workshop        | Subject | Type | Completed | Time spent |
 | -------------------- | ------------- | ----- | ----- | ------------- | ---------- |
 | Metropolia University of Applied Sciences | [Introduction to Kotlin 3 ECTS](https://opinto-opas.metropolia.fi/fi/tarjontakorit/fi/54456) | Kotlin | Online course | January | 5 hours 30 minutes |
-| TODO | TODO | TODO | TODO | February | TODO |
+| Test Automation University | [Source Control for Test Automation with Git](https://testautomationu.applitools.com/git-tutorial/) | Testing | Online course | February | TODO |
 
 &nbsp;&nbsp;&nbsp;
 

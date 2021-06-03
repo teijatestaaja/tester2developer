@@ -10,12 +10,16 @@ Due to covid-19, all sports were cancelled in spring 2020 so I started also to l
 
 ## Completed courses and workshops in 2021
 
-Total time spent: 5 hours and 30 minutes. See [description of what I have learned in 2021](completed_courses_2021.md).
+Total time spent so far: 46 hours and 45 minutes. See [description of what I have learned in 2021](completed_courses_2021.md).
 
 | Organiser | Course / workshop        | Subject | Type | Completed | Time spent |
 | -------------------- | ------------- | ----- | ----- | ------------- | ---------- |
 | Metropolia University of Applied Sciences | [Introduction to Kotlin 3 ECTS](https://opinto-opas.metropolia.fi/fi/tarjontakorit/fi/54456) | Kotlin | Online course | January | 5 hours 30 minutes |
-| Test Automation University | [Source Control for Test Automation with Git](https://testautomationu.applitools.com/git-tutorial/) | Testing | Online course | February | TODO |
+| Google Developers | [Kotlin Bootcamp for programmers](https://developer.android.com/codelabs/kotlin-bootcamp-welcome#0) | Kotlin | Online course | February | 1 hour |
+| University of Helsinki | [DevOps with Docker](https://devopswithdocker.com/) | Docker | Online course | March | 3 hours 30 min |
+| University of Jyväskylä | [Data Visualization and analysis](https://opinto-opas.jyu.fi/2021/fi/opintojakso/tilp2400/) | Statistics | Online course | April | 22 hours 45 min |
+| Udemy | [Robot Framework Test Automation - Level 1](https://www.udemy.com/course/robot-framework-level-1/) | Testing | Online course | May | 8 hours 30 min |
+| Udemy | [Robot Framework Test Automation - Level 2](https://www.udemy.com/course/robot-framework-2/) | Testing | Online course | May | 5 hours 30 min |
 
 &nbsp;&nbsp;&nbsp;
 

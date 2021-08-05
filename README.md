@@ -17,9 +17,14 @@ Total time spent so far: 46 hours and 45 minutes. See [description of what I hav
 | Metropolia University of Applied Sciences | [Introduction to Kotlin 3 ECTS](https://opinto-opas.metropolia.fi/fi/tarjontakorit/fi/54456) | Kotlin | Online course | January | 5 hours 30 minutes |
 | Google Developers | [Kotlin Bootcamp for programmers](https://developer.android.com/codelabs/kotlin-bootcamp-welcome#0) | Kotlin | Online course | February | 1 hour |
 | University of Helsinki | [DevOps with Docker](https://devopswithdocker.com/) | Docker | Online course | March | 3 hours 30 min |
-| University of Jyväskylä | [Data Visualization and analysis](https://opinto-opas.jyu.fi/2021/fi/opintojakso/tilp2400/) | Statistics | Online course | April | 22 hours 45 min |
+| University of Jyväskylä | [Data Visualization and analysis 5 ECTS](https://opinto-opas.jyu.fi/2021/fi/opintojakso/tilp2400/) | Statistics | Online course | April | 22 hours 45 min |
 | Udemy | [Robot Framework Test Automation - Level 1](https://www.udemy.com/course/robot-framework-level-1/) | Testing | Online course | May | 8 hours 30 min |
 | Udemy | [Robot Framework Test Automation - Level 2](https://www.udemy.com/course/robot-framework-2/) | Testing | Online course | May | 5 hours 30 min |
+| | Summer vacation | | | June | |
+| | Summer vacation | | | July | |
+| Qentinel | [Qentinel Pace Orientation](https://qentinel.com/test-automation-online-training/) | Testing | Online course | August | TODO |
+| Qentinel | [Qentinel Pace Foundation](https://qentinel.com/test-automation-online-training/) | Testing | Online course | August | TODO |
+| Qentinel | [QWeb Workshop](https://github.com/qentinelqi/qweb_workshop) | Testing | Online tutorial | August | TODO |
 
 &nbsp;&nbsp;&nbsp;
 

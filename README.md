@@ -10,7 +10,7 @@ Due to covid-19, all sports were cancelled in spring 2020 so I started also to l
 
 ## Completed courses and workshops in 2021
 
-Total time spent so far: 46 hours and 45 minutes. See [description of what I have learned in 2021](completed_courses_2021.md).
+Total time spent so far: 54 hours and 0 minutes.
 
 | Organiser | Course / workshop        | Subject | Type | Completed | Time spent |
 | -------------------- | ------------- | ----- | ----- | ------------- | ---------- |
@@ -22,9 +22,9 @@ Total time spent so far: 46 hours and 45 minutes. See [description of what I hav
 | Udemy | [Robot Framework Test Automation - Level 2](https://www.udemy.com/course/robot-framework-2/) | Testing | Online course | May | 5 hours 30 min |
 | | Summer vacation | | | June | |
 | | Summer vacation | | | July | |
-| Qentinel | [Qentinel Pace Orientation](https://qentinel.com/test-automation-online-training/) | Testing | Online course | August | TODO |
-| Qentinel | [Qentinel Pace Foundation](https://qentinel.com/test-automation-online-training/) | Testing | Online course | August | TODO |
-| Qentinel | [QWeb Workshop](https://github.com/qentinelqi/qweb_workshop) | Testing | Online tutorial | August | TODO |
+| Qentinel | [Qentinel Pace Orientation](https://qentinel.com/test-automation-online-training/) | Testing | Online course | August | 1 hour |
+| Qentinel | [Qentinel Pace Foundation](https://qentinel.com/test-automation-online-training/) | Testing | Online course | August | 30 min |
+| Qentinel | [QWeb Workshop](https://github.com/qentinelqi/qweb_workshop) | Testing | Online tutorial | August | 5 hours 45 min |
 
 &nbsp;&nbsp;&nbsp;
 

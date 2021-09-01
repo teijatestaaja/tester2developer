@@ -10,7 +10,7 @@ Due to covid-19, all sports were cancelled in spring 2020 so I started also to l
 
 ## Completed courses and workshops in 2021
 
-Total time spent so far: 54 hours and 0 minutes.
+Total time spent so far: 58 hours and 0 minutes.
 
 | Organiser | Course / workshop        | Subject | Type | Completed | Time spent |
 | -------------------- | ------------- | ----- | ----- | ------------- | ---------- |
@@ -25,6 +25,8 @@ Total time spent so far: 54 hours and 0 minutes.
 | Qentinel | [Qentinel Pace Orientation](https://qentinel.com/test-automation-online-training/) | Testing | Online course | August | 1 hour |
 | Qentinel | [Qentinel Pace Foundation](https://qentinel.com/test-automation-online-training/) | Testing | Online course | August | 30 min |
 | Qentinel | [QWeb Workshop](https://github.com/qentinelqi/qweb_workshop) | Testing | Online tutorial | August | 5 hours 45 min |
+| Udemy | [Unit testing and TDD in Python](https://www.udemy.com/course/unit-testing-and-tdd-in-python/) | Python | Online course | September | 2 hours 10 min |
+| Test Automation University | [Introduction to pytest](https://testautomationu.applitools.com/pytest-tutorial/) | Python | Online course | September | 1 hour 50 min |
 
 &nbsp;&nbsp;&nbsp;
 

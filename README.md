@@ -10,14 +10,14 @@ Due to covid-19, all sports were cancelled in spring 2020 so I started also to l
 
 ## Completed courses and workshops in 2021
 
-Total time spent so far: 56 hours and 30 minutes.
+Total time spent so far: 79 hours and 5 minutes.
 
 | Organiser | Course / workshop        | Subject | Type | Completed | Time spent |
 | -------------------- | ------------- | ----- | ----- | ------------- | ---------- |
 | Metropolia University of Applied Sciences | [Introduction to Kotlin 3 ECTS](https://opinto-opas.metropolia.fi/fi/tarjontakorit/fi/54456) | Kotlin | Online course | January | 5 hours 30 minutes |
 | Google Developers | [Kotlin Bootcamp for programmers](https://developer.android.com/codelabs/kotlin-bootcamp-welcome#0) | Kotlin | Online course | February | 1 hour |
 | University of Helsinki | [DevOps with Docker](https://devopswithdocker.com/) | Docker | Online course | March | 3 hours 30 min |
-| University of Jyväskylä | [Data Visualization and analysis 5 ECTS](https://opinto-opas.jyu.fi/2021/fi/opintojakso/tilp2400/) | Statistics | Online course | April | 22 hours 45 min |
+| University of Jyväskylä | [Data Visualization and Analysis 5 ECTS](https://opinto-opas.jyu.fi/2021/fi/opintojakso/tilp2400/) | Statistics | Online course | April | 22 hours 45 min |
 | Udemy | [Robot Framework Test Automation - Level 1](https://www.udemy.com/course/robot-framework-level-1/) | Testing | Online course | May | 8 hours 30 min |
 | Udemy | [Robot Framework Test Automation - Level 2](https://www.udemy.com/course/robot-framework-2/) | Testing | Online course | May | 5 hours 30 min |
 | | Summer vacation | | | June | |
@@ -25,12 +25,14 @@ Total time spent so far: 56 hours and 30 minutes.
 | QWeb | [QWeb Workshop](https://github.com/qentinelqi/qweb_workshop) | Testing | Online tutorial | August | 5 hours 45 min |
 | Udemy | [Unit testing and TDD in Python](https://www.udemy.com/course/unit-testing-and-tdd-in-python/) | Python | Online course | September | 2 hours 10 min |
 | Test Automation University | [Introduction to pytest](https://testautomationu.applitools.com/pytest-tutorial/) | Python | Online course | September | 1 hour 50 min |
+| University of Eastern Finland | [Python course 5 ECTS](https://digicampus.fi/course/view.php?id=1947) | Python | Online course | October | 21 hours 50 min |
+| Test Automation University | [Scaling tests with Docker](https://testautomationu.applitools.com/scaling-tests-with-docker/) | Docker | Online course | November | 45 min |
 
 &nbsp;&nbsp;&nbsp;
 
 ## Completed courses and workshops in 2020
 
-Total time spent: 279 hours and 30 minutes. See [description of what I have learned in 2020](completed_courses_2020.md).
+Total time spent: 279 hours and 30 minutes.
 
 | Organiser | Course / workshop        | Subject | Type | Completed | Time spent |
 | -------------------- | ------------- | ----- | ----- | ------------- | ---------- |

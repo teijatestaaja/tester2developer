@@ -4,13 +4,11 @@ I wanted to start the 2020s by studying new technologies and programming languag
 
 I am completing these various types of programming-related studies while working full-time as a Senior Test Automation Engineer. I will also study some testing-related stuff to broaden my knowledge at work.
 
-Studying and learning new things is something I enjoy and value a lot, because as a person I am curious and always eager to learn. Currently, I have a study right in the Degree Programme in Business Information Technology at Haaga-Helia University of Applied Sciences, where I am continuing my studies in [software engineering](https://opinto-opas.haaga-helia.fi/index.php/en/13336/en/39079/DIGI19-E/303/year/2019?userLang=en). Once finished, it will be my 5th university degree.
-
-Due to covid-19, all sports were cancelled in spring 2020 so I started also to learn Portuguese in April with Duolingo App.
+Studying and learning new things is something I enjoy and value a lot, because as a person I am curious and always eager to learn. Due to covid-19, all sports were cancelled in spring 2020 so I started also to learn Portuguese in April with Duolingo App.
 
 ## Completed courses and workshops in 2021
 
-Total time spent so far: 79 hours and 5 minutes.
+Total time spent: 80 hours and 35 minutes.
 
 | Organiser | Course / workshop        | Subject | Type | Completed | Time spent |
 | -------------------- | ------------- | ----- | ----- | ------------- | ---------- |
@@ -27,6 +25,7 @@ Total time spent so far: 79 hours and 5 minutes.
 | Test Automation University | [Introduction to pytest](https://testautomationu.applitools.com/pytest-tutorial/) | Python | Online course | September | 1 hour 50 min |
 | University of Eastern Finland | [Python course 5 ECTS](https://digicampus.fi/course/view.php?id=1947) | Python | Online course | October | 21 hours 50 min |
 | Test Automation University | [Scaling tests with Docker](https://testautomationu.applitools.com/scaling-tests-with-docker/) | Docker | Online course | November | 45 min |
+| Test Automation University | [Web Element Locator Strategies](https://testautomationu.applitools.com/web-element-locator-strategies/) | Testing | Online course | December | 90 min |
 
 &nbsp;&nbsp;&nbsp;
 

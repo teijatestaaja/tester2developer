@@ -1,12 +1,26 @@
-# Journey from Tester to Developer
+# Journey from Tester to Developer or Test-Developer
 
 I wanted to start the 2020s by studying new technologies and programming languages in order to change my job from testing into more towards developer, be it test-related or pure developer job.
 
 I am completing these various types of programming-related studies while working full-time as a Senior Test Automation Engineer. I will also study some testing-related stuff to broaden my knowledge at work.
 
-Studying and learning new things is something I enjoy and value a lot, because as a person I am curious and always eager to learn. Due to covid-19, all sports were cancelled in spring 2020 so I started also to learn Portuguese in April with Duolingo App.
+Studying and learning new things is something I enjoy and value a lot, because as a person I am curious and always eager to learn. Due to covid-19, all sports were cancelled in spring 2020 so I started also to learn Portuguese in April with Duolingo App. In 2022 I continued studying Portuguese as my major at the University of Helsinki.
+
+## Completed courses and workshops in 2023
+
+| Organiser | Course / workshop        | Subject | Type | Completed | Time spent |
+| -------------------- | ------------- | ----- | ----- | ------------- | ---------- |
+| | | | | | |
+&nbsp;&nbsp;
+
+## Completed courses and workshops in 2022
+
+I concentrated on getting into the University of Helsinki to study Portuguese.
+&nbsp;&nbsp;
 
 ## Completed courses and workshops in 2021
+
+In December 2021 I finalized my degree in front-end programming at the Haaga-Helia Applied University.
 
 Total time spent: 80 hours and 35 minutes.
 
@@ -27,7 +41,7 @@ Total time spent: 80 hours and 35 minutes.
 | Test Automation University | [Scaling tests with Docker](https://testautomationu.applitools.com/scaling-tests-with-docker/) | Docker | Online course | November | 45 min |
 | Test Automation University | [Web Element Locator Strategies](https://testautomationu.applitools.com/web-element-locator-strategies/) | Testing | Online course | December | 90 min |
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 ## Completed courses and workshops in 2020
 

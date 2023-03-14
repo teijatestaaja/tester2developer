@@ -15,7 +15,7 @@ Total time spent: 24 hours and 50 minutes.
 | Organiser | Course / workshop        | Subject | Completed | Time spent |
 | -------------------- | ------------- | ----- | ------------- | ---------- |
 | University of Helsinki | [Full Stack open, parts 0-1](https://fullstackopen.com/) | React, TypeScript | January | 11 h 45 min |
-| University of Helsinki | [Full Stack open, part 2](https://fullstackopen.com/) | React, TypeScript | January | 2 h |
+| University of Helsinki | [Full Stack open, part 2](https://fullstackopen.com/) | React, TypeScript | February | 2 h |
 | Metropolia | [Software Automation Using Robot Framework 3 ECTS](https://campusonline.fi/course/software-automation-using-robot-framework/) | Testing | March | 3 h |
 | Metropolia | [Introduction to Scala 3 ECTS](https://campusonline.fi/course/introduction-to-scala/) | Scala | March | 8 h 5 min|
 | | Summer vacation | | June | |

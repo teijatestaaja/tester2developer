@@ -19,8 +19,8 @@ Total time spent: 31 hours and 10 minutes.
 | Metropolia | [Software Automation Using Robot Framework 3 ECTS](https://campusonline.fi/course/software-automation-using-robot-framework/) | Testing | March | 3 h |
 | Metropolia | [Introduction to Scala 3 ECTS](https://campusonline.fi/course/introduction-to-scala/) | Scala | March | 8 h 5 min |
 | Metropolia | [C#-ohjelmointi 4 ECTS](https://campusonline.fi/course/c-ohjelmointi-2/) | C# | April | 6 h 20 min |
+| | Summer vacation | | May | |
 | | Summer vacation | | June | |
-| | Summer vacation | | July | |
 
 &nbsp;&nbsp;
 

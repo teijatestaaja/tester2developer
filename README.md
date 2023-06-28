@@ -33,11 +33,12 @@ Theme of the year: I concentrated on getting into the University of Helsinki to 
 
 Theme of the year: To finish Bachelor of Business Administration degree. In December 2021 I finalized my degree in front-end programming at the Haaga-Helia Applied University.
 
-Total time spent: 80 hours and 35 minutes.
+Total time spent: 81 hours and 35 minutes.
 
 | Organiser | Course / workshop        | Subject | Completed | Time spent |
 | -------------------- | ------------- | ----- | ------------- | ---------- |
 | Metropolia | [Introduction to Kotlin 3 ECTS](https://campusonline.fi/en/course/kotlin/) | Kotlin | January | 5 h 30 min |
+| Test Automation University | [Introduction to Robot Framework](https://testautomationu.applitools.com/robot-framework-refresh/) | Testing | January | 1 h |
 | Google Developers | [Kotlin Bootcamp for programmers](https://developer.android.com/codelabs/kotlin-bootcamp-welcome#0) | Kotlin | February | 1 h |
 | University of Helsinki | [DevOps with Docker](https://devopswithdocker.com/) | Docker | March | 3 h 30 min |
 | University of Jyväskylä | [Data Visualization and Analysis 5 ECTS](https://opinto-opas.jyu.fi/2021/fi/opintojakso/tilp2400/) | Statistics | April | 22 h 45 min |

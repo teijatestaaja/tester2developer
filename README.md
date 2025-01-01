@@ -6,28 +6,17 @@ I am completing these various types of programming-related studies on online cou
 
 Studying and learning new things is something I enjoy and value a lot, because as a person I am curious and always eager to learn. Due to covid-19, all sports were cancelled in spring 2020 so I started also to learn Portuguese in April with Duolingo App. In 2022 I continued studying Portuguese as my major at the University of Helsinki.
 
-## Completed courses and workshops in 2023
+## Completed courses and workshops in 2025
 
-Theme of the year: Study more about coding! And to get in to studying online Bachelor of Engineering degree.
+Theme of the year: Study more about [Playwright](https://playwright.dev/) and [Android development](https://developer.android.com/).
 
-Total time spent: 31 hours and 10 minutes.
+## Completed courses and workshops in 2023-2024
 
-| Organiser | Course / workshop        | Subject | Completed | Time spent |
-| -------------------- | ------------- | ----- | ------------- | ---------- |
-| University of Helsinki | [Full Stack open, parts 0-1](https://fullstackopen.com/) | React, TypeScript | January | 11 h 45 min |
-| University of Helsinki | [Full Stack open, part 2](https://fullstackopen.com/) | React, TypeScript | February | 2 h |
-| Metropolia | [Software Automation Using Robot Framework 3 ECTS](https://campusonline.fi/course/software-automation-using-robot-framework/) | Testing | March | 3 h |
-| Metropolia | [Introduction to Scala 3 ECTS](https://campusonline.fi/course/introduction-to-scala/) | Scala | March | 8 h 5 min |
-| Metropolia | [C#-ohjelmointi 4 ECTS](https://campusonline.fi/course/c-ohjelmointi-2/) | C# | April | 6 h 20 min |
-| | Summer vacation | | May | |
-| | Summer vacation | | June | |
-
-&nbsp;&nbsp;
+Theme of the year: I concentrated on studying Portuguese and Spanish in [Kielten kandiohjelma](https://www.helsinki.fi/fi/koulutusohjelmat/kielten-kandiohjelma) at the University of Helsinki.
 
 ## Completed courses and workshops in 2022
 
-Theme of the year: I concentrated on getting into the University of Helsinki to study Portuguese thus I did not complete any IT courses.
-&nbsp;&nbsp;
+Theme of the year: I concentrated on getting into the University of Helsinki to study Portuguese thus I did not complete any IT courses.  In September 2022 I finally started my studies.
 
 ## Completed courses and workshops in 2021
 

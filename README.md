@@ -10,6 +10,10 @@ Studying and learning new things is something I enjoy and value a lot, because a
 
 Theme of the year: Study more about [Playwright](https://playwright.dev/) and [Android development](https://developer.android.com/).
 
+| Organiser | Course / workshop        | Subject | Completed | Time spent |
+| -------------------- | ------------- | ----- | ------------- | ---------- |
+| Udemy | [Playwright: Web Automation Testing From Zero to Hero](https://www.udemy.com/course/playwright-from-zero-to-hero/?srsltid=AfmBOoq0qK0RN2ZbT8LH6x5G_DMUxS3ZLk47NWzbAgMp0iiXtTvjFvgy&couponCode=NEWYEARCAREER) | Testing | ongoing | 8 hours |
+
 ## Completed courses and workshops in 2023-2024
 
 Theme of the year: I concentrated on studying Portuguese and Spanish in [Kielten kandiohjelma](https://www.helsinki.fi/fi/koulutusohjelmat/kielten-kandiohjelma) at the University of Helsinki.

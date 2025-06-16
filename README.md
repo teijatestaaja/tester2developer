@@ -8,19 +8,15 @@ Studying and learning new things is something I enjoy and value a lot, because a
 
 ## Completed courses and workshops in 2025
 
-Theme of the year: Study more about [Playwright](https://playwright.dev/) and [Android development](https://developer.android.com/).
+Theme of the year: Study more about [Playwright](https://playwright.dev/) and [AWS Cloud](https://aws.amazon.com/training/).
 
 | Organiser | Course / workshop        | Subject | Completed | Time spent |
 | -------------------- | ------------- | ----- | ------------- | ---------- |
-| Udemy | [Playwright: Web Automation Testing From Zero to Hero](https://www.udemy.com/course/playwright-from-zero-to-hero/?srsltid=AfmBOoq0qK0RN2ZbT8LH6x5G_DMUxS3ZLk47NWzbAgMp0iiXtTvjFvgy&couponCode=NEWYEARCAREER) | Testing | ongoing | 8 hours |
+| TAU | [Introduction to Playwright](https://testautomationu.applitools.com/playwright-intro/) | Testing | June | 1 hour 25 minutes |
 
-## Completed courses and workshops in 2023-2024
+## Intermediate years 2022-2024
 
-Theme of the year: I concentrated on studying Portuguese and Spanish in [Kielten kandiohjelma](https://www.helsinki.fi/fi/koulutusohjelmat/kielten-kandiohjelma) at the University of Helsinki.
-
-## Completed courses and workshops in 2022
-
-Theme of the year: I concentrated on getting into the University of Helsinki to study Portuguese thus I did not complete any IT courses.  In September 2022 I finally started my studies.
+Theme: I concentrated on getting into the University of Helsinki to study Portuguese thus I did not complete any IT courses.  In September 2022 I finally started my studies in Portuguese and Spanish in [Kielten kandiohjelma](https://www.helsinki.fi/fi/koulutusohjelmat/kielten-kandiohjelma) at the University of Helsinki.
 
 ## Completed courses and workshops in 2021
 
